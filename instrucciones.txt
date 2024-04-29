@@ -1,0 +1,6 @@
+Comandos para creación de ambiente para proyecto
+
+conda create -n image-captioning python=3.9
+conda activate image-captioning
+C:\Deteccion_Monitoreo_Conductor    --> Colocar la dirección de la carpeta donde está el proyecto
+pip install -U -r requirements.txt
